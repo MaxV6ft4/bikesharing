@@ -12,11 +12,11 @@ In this project I created a story on Tableau Public that reports specifically on
 
 The first visualization is a heatmap that plots the amount of bikes used per day based on gender, for each type of bike user (customer or subscriber).  It is very clear that male subscribers are responsible for the lion's share of bikes used in August.
 
-![Trip duration](https://github.com/MaxV6ft4/bikesharing/blob/main/Images/Trip_duration.png)
+![Trip duration](https://github.com/MaxV6ft4/bikesharing/blob/main/Images/Tripduration.png)
 
 The second visualization is a line graph that plots the number of bikes used based on trip duration.  About 146,000 bikes were used for 5 minutes, by far the most popular duration.  These were most likely comprised of people running errands in and around their neighborhood.
 
-![Trip duration vs. Gender](https://github.com/MaxV6ft4/bikesharing/blob/main/Images/Tripduration_vs_Gender.png)
+![Trip duration vs. Gender](https://github.com/MaxV6ft4/bikesharing/blob/main/Images/Trip_duration_vs_Gender.png)
 
 The third visualization uses the same line graph as the second one, but splits it into three graphs based on gender (male, female and unknown).  The most popular trip duration was 5 minutes for both males and females, however many more males rode for this amount of time than their female counterparts.
 
