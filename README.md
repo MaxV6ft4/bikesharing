@@ -37,3 +37,6 @@ The penultimate visualization is a bar graph that plots the total number of bike
 The final visualization is a map of New York City that contains a circle for each starting location of a bike used in the sharing program.  A great majority of them were used in Manhattan.
 
 ## Summary
+New York City is much larger than Des Moines.  It will take plenty of convincing the local residents that a bike-sharing program is worth the investment.  However, the Tableau story I have created has, I believe, provided excellent reasons to go ahead with the program in Des Moines.  We have seen that the majority of users only rode the bikes for a period of 5 minutes.  This means they rode simply to run errands or get groceries in their neighborhood.  While the amount of time spent on the bike might be slightly longer in Des Moines to perform the same activities, the concept still holds strong.  Furthermore, the majority of bikes were used during morning and evening rush hours.  This factor will not change, as every US city deals with increased traffic during rush hour.  Finally, the majority of users in NYC were based in Manhattan.  Des Moines does not have multiple boroughs like New York, but as long as users stay within the city limits, the program should be a success.
+
+### Further Exploration
