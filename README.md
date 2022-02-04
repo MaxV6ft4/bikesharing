@@ -1,7 +1,7 @@
 # NYC Bikesharing Report
 
 ## Overview
-In this project I created a story on Tableau Public that reports specifically on the trip data.  Within the story are multiple visualizations, comparing types of users by gender, durations of bike trips by gender, and the most popular times to checkout a bike, to name a few.  To create the visualizations I used line graphs, heatmaps, bar graphs and a map of New York's five boroughs to plot which one contained the most bike sharers.
+In this project I created a story on Tableau Public that contains multiple visualizations specifically adhering to trip-related data.  I compared types of users by gender, durations of bike trips by gender, and the most popular times to checkout a bike, to name a few.  To create the visualizations I used line graphs, heatmaps, bar graphs, as well as a map of New York's five boroughs to see which one contained the most bike sharers.
 
 ## Results
 
@@ -14,7 +14,7 @@ The first visualization is a heatmap that plots the amount of bikes used per day
 
 ![Trip duration](https://github.com/MaxV6ft4/bikesharing/blob/main/Images/Tripduration.png)
 
-The second visualization is a line graph that plots the number of bikes used based on trip duration.  About 146,000 bikes were used for 5 minutes, by far the most popular duration.  These were most likely comprised of people running errands in and around their neighborhood.
+The second visualization is a line graph that plots the number of bikes used based on trip duration.  About 146,000 bikes were used for 5 minutes, by far the most popular amount of time to use a bike.  These were most likely comprised of people running errands in and around their neighborhood.
 
 ![Trip duration vs. Gender](https://github.com/MaxV6ft4/bikesharing/blob/main/Images/Trip_duration_vs_Gender.png)
 
@@ -37,7 +37,7 @@ The penultimate visualization is a bar graph that plots the total number of bike
 The final visualization is a map of New York City that contains a circle for each starting location of a bike used in the sharing program.  A great majority of them were used in Manhattan.
 
 ## Summary
-New York City is much larger than Des Moines.  It will take plenty of convincing the local residents that a bike-sharing program is worth the investment.  However, the Tableau story I have created has, I believe, provided excellent reasons to go ahead with the program in Des Moines.  We have seen that the majority of users only rode the bikes for a period of 5 minutes.  This means they rode simply to run errands or get groceries in their neighborhood.  While the amount of time spent on the bike might be slightly longer in Des Moines to perform the same activities, the concept still holds strong.  Furthermore, the majority of bikes were used during morning and evening rush hours.  This factor will not change, as every US city deals with increased traffic during rush hour.  Finally, the majority of users in NYC were based in Manhattan.  Des Moines does not have multiple boroughs like New York, but as long as users stay within the city limits, the program should be a success.
+New York City is much, much larger than Des Moines.  It will take plenty of convincing the local residents that a bike-sharing program is worth the investment.  That being said, I believe the Tableau story I have created has provided excellent reasons to go ahead with the program in Des Moines.  We have seen that the majority of users only rode the bikes for a period of 5 minutes.  This means they rode simply to run errands or get groceries in their neighborhood.  While the amount of time spent on the bike might be slightly longer in Des Moines than in New York to perform the same activities, the concept still holds strong.  Furthermore, the majority of bikes were used during morning and evening rush hours.  The increase in usage during these hours will apply to Des Moines as well, as every US city deals with increased traffic during rush hour.  Finally, the majority of users in NYC were based in Manhattan, the most densely populated borough.  Des Moines does not have multiple boroughs like New York, but as long as it remains the most densely populated city in the area, the program should be a success!
 
 ### Further Exploration
-If you wanted to visualize the tripduration data in greater detail, you could create a line or bar graph comparing trip duration based on birth year (and gender on top of that as an option).  Most likely the results would show the longer the trip, the younger the individual.  Additionally, a second map could be created to comapre the most popular start and stop stations based on gender to see where in Manhattan the most males and females ride.
+If you wanted to visualize the tripduration data in greater detail, you could create a line or bar graph comparing trip duration based on birth year (and gender on top of that as an extra option).  Most likely the results would show that the longer the trip, the younger the individual.  Additionally, a second map could be created to comapre the most popular start and stop stations based on gender to see where in Manhattan the most males and females ride, respectively.
